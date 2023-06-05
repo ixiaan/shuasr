@@ -1,8 +1,8 @@
 name: Self Report
 
-on:
-  schedule:
-    - cron: "30 8 * * *"
+#on:
+  #schedule:
+    #- cron: "30 8 * * *"
   workflow_dispatch:
 
 jobs:
